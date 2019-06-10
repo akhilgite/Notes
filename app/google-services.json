@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124936500241",
+    "firebase_url": "https://notes-2839b.firebaseio.com",
+    "project_id": "notes-2839b",
+    "storage_bucket": "notes-2839b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124936500241:android:2bdee51dfbc3688b",
+        "android_client_info": {
+          "package_name": "com.akhil.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124936500241-6kiid5n690qldrluer1dvsg04tsuhkmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKLxbDlOb3qHNWQ4X6h1ywQNMOoeSkjcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124936500241-6kiid5n690qldrluer1dvsg04tsuhkmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
